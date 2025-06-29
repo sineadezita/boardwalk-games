@@ -106,6 +106,12 @@ h2 {
     color: var(--secondary-color);
 }
 
+#contact .table-dark * {
+    background-color: transparent;
+}
+
+/* Grid visualisation css for testing */
+
 /*.container,
 .row {
     border: 2px solid black;
